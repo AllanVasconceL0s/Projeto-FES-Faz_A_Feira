@@ -1,5 +1,10 @@
 # Projeto-FES-Faz_A_Feira!
 
+Projeto acadêmico proposto pelas disciplinas de Fundamentos de Engenharia de Software, professor Lucas Rodolfo Celestino de Farias, Gestão de Projetos, professora Suzanna Sandes Dantas e Projetos 02, professora Jeneffer Cristine Ferreira com o propósito de aplicarmos e aprendermos na prática os conceitos de Programa, Projeto, Portfólio, Processos, Estratégias, Resultado, Metodologias Ágeis assim como XP (Extreme Programming), Scrum, Kanban, Princípio de Projeto e Propriedade de Projeto dentre outros.
+
+
+***PROBLEMÁTICA***
+
 Com a vida agitada que levamos, conciliar trabalho, família, a vida conjugal, não é fácil, e ainda fazer compras, ir ao supermercado não é nada agradável. Com várias pessoas comprando ao mesmo tempo, aumentam os níveis de estresse e do cansaço. A dificuldade em encontrar certos produtos só pioram a experiência. Muitas vezes, acabamos deixando de lado momentos de descanso ou lazer para cumprir essas tarefas.
 
 
