@@ -10,19 +10,20 @@ No segundo caso o usuário remove os itens selecionados antes com apenas um cliq
 & no terceiro e último caso o usuário verifica na página de status de pedidos como esta o andamento da entrega de sues pedidos, se já foram embalados, se o motoboy já saiu para entrega ou se seu pedido já foi entregue para o endereço desejado. 
 
 
-Acrescentar ou adicionar o item do carrinho de compras, Remover ou diminuir itens do carrinho de compras:
+Acrescentar, adicionar o item no carrinho de compras ou diminuir itens do carrinho de compras:
 
 
-![FazAFeira_AdicionarItemRemoverItem1](https://github.com/user-attachments/assets/2618e414-b7e0-4546-8065-c225d5b9058c)
+![FazAFeira_AdicionarItemRemoverItem1BrancoPNGFinalizado](https://github.com/user-attachments/assets/f1e84ea7-08ce-4fbb-8d52-9d7d8b2b4032)
 
 
+Remover os itens do carrinho de compras
 
-![FazAFeira_AdicionarItemRemoverItem2](https://github.com/user-attachments/assets/7687adaa-61a0-45fe-82b9-8a5685d97e4b)
 
-
+![FazAFeira_RemoverExcluirItem2PNGFinalizado](https://github.com/user-attachments/assets/9ef21870-4360-4eee-b42b-f2c3e2546c22)
 
 
 Verificando a página de status de pedidos:
 
 
-![FazAFeira_StatusPedido](https://github.com/user-attachments/assets/44cde69c-ff92-4b0d-a9c4-e8412b221198)
+![FazAFeira_StatusPedidoPNGFinalizado](https://github.com/user-attachments/assets/5c5d5551-e784-4128-8e82-a76c6f92b923)
+
