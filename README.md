@@ -57,7 +57,7 @@ Verificando a página de status de pedidos:
 
 
 
-***VÍDEO TUTORIAL DE COMO ADICIONAR/DIMINUIR ITENS  |  REMOVER ITENS DO CARRINHO DE COMPRAS  |  VERIFICANDO A PÁGINA DO USUÁRIO***
+***VÍDEOS TUTORIAL***
 
 
 Adicionando/Diminuindo Itnes no Carrinho:
