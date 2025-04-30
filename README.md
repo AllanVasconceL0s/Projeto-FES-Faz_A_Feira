@@ -5,17 +5,15 @@ Projeto acadêmico proposto pelas disciplinas de Fundamentos de Engenharia de So
 
 ***PROBLEMÁTICA***
 
+
 Com a vida agitada que levamos, conciliar trabalho, família, a vida conjugal, não é fácil, e ainda fazer compras, ir ao supermercado não é nada agradável. Com várias pessoas comprando ao mesmo tempo, aumentam os níveis de estresse e do cansaço. A dificuldade em encontrar certos produtos só pioram a experiência. Muitas vezes, acabamos deixando de lado momentos de descanso ou lazer para cumprir essas tarefas.
 
 
 
-
 ***SOLUÇÃO***
+
+
 Desenvolvemos um website com a cara de um supermercado físico só que com a praticidade e vantagens que uma loja virtual tem, trazendo a comodidade para seus clientes proporcionando compras de produtos direto do sofá.
-
-
-
-
 
 
 ***GERENCIAMENTO DE ATIVIDADES & AÇÕES NO TRELLO***
