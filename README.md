@@ -12,12 +12,10 @@ Com a vida agitada que levamos, conciliar trabalho, família, a vida conjugal, n
 
 ***SOLUÇÃO***
 
-
 Desenvolvemos um website com a cara de um supermercado físico só que com a praticidade e vantagens que uma loja virtual tem, trazendo a comodidade para seus clientes proporcionando compras de produtos direto do sofá.
 
 
 ***GERENCIAMENTO DE ATIVIDADES & AÇÕES NO TRELLO***
-
 
 
 Atividades Concluídas, Em Andamento e A Fazer
@@ -78,6 +76,9 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 ***COLABORADORES***
 
 https://github.com/AllanVasconceL0s
+
 https://github.com/Danilo-ADS
+
 https://github.com/Bruno-h-Braga
+
 https://github.com/glaucosantos002
