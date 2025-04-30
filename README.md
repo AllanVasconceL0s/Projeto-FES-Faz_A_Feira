@@ -76,9 +76,14 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 ***COLABORADORES***
 
 https://github.com/AllanVasconceL0s
+![IMG_7646](https://github.com/user-attachments/assets/ebd78a52-3c1d-4c17-869d-eab3a27f00de)
 
 https://github.com/Danilo-ADS
 
 https://github.com/Bruno-h-Braga
+![ImagemBrunoBraga](https://github.com/user-attachments/assets/43d798c4-6ac4-437f-b837-58ab1a77aa33)
+
 
 https://github.com/glaucosantos002
+![ImagemGlaucoSantos](https://github.com/user-attachments/assets/5ad36940-707c-4c6c-9e39-ad5338b9eb80)
+
