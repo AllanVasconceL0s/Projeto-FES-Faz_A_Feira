@@ -75,3 +75,11 @@ https://www.youtube.com/watch?v=BB3dPJ9HiGg
 Visualizando Status dos Pedidos:
 
 https://www.youtube.com/watch?v=h_50yc1niIY
+
+
+***COLABORADORES***
+
+https://github.com/AllanVasconceL0s
+https://github.com/Danilo-ADS
+https://github.com/Bruno-h-Braga
+https://github.com/glaucosantos002
