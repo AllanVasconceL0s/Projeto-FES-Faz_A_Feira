@@ -28,6 +28,13 @@ Atividades marcadas como "A Fazer":        Atividades marcadas como "Em Andament
 ![Trello-2-AtividadeAFazer](https://github.com/user-attachments/assets/9ff80140-e429-4930-83ae-40a84c8ff4c9) ![Trello-3-AtividadeEmAndamento](https://github.com/user-attachments/assets/ea3ee0cb-df6e-4994-8a77-41a8afe993ba) ![Trello-4-Finalizada](https://github.com/user-attachments/assets/a7d88b68-c424-45d2-bdab-a429b02a922d)
 
 
+***3C CARTÃO|CONVERSA|CONFIRMAÇÃO - BACKLOG TRELLO***
+
+
+3C's Cartão Product Owner, Conversa com Usuário (Entendendo e Atendendo suas Necessidades) e Confirmação (Criação de Funcionalidades):
+
+![Projeto02-FAZ@FEIRA-3C-Backlog-Cartao_Conversa_Confirmacao-I](https://github.com/user-attachments/assets/a7713fc5-a01f-4f5e-a8fa-ecbda028fa25) ![Projeto02-FAZ@FEIRA-3C-Backlog-Cartao_Conversa_Confirmacao-II](https://github.com/user-attachments/assets/45a818da-2368-4b74-825a-61e0b555cf34)
+
 
 ***SKETCHES & STORYBOARDS***
 
