@@ -29,7 +29,7 @@ Atividades marcadas como "A Fazer":        Atividades marcadas como "Em Andament
 
 
 
-***SKETTCHERS & HISTORYBOARDS***
+***SKETCHES & STORYBOARDS***
 
 
 Criamos três sketchers e storysboards para exemplificarmos o uso prático do nosso e-commerce. 
