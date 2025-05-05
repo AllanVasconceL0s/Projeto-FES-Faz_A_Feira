@@ -15,7 +15,7 @@ Com a vida agitada que levamos, conciliar trabalho, família, a vida conjugal, n
 Desenvolvemos um website com a cara de um supermercado físico só que com a praticidade e vantagens que uma loja virtual tem, trazendo a comodidade para seus clientes proporcionando compras de produtos direto do sofá.
 
 
-***GERENCIAMENTO DE ATIVIDADES & AÇÕES NO TRELLO***
+***BACKLOG (GERENCIAMENTO DE ATIVIDADES & AÇÕES NO TRELLO)***
 
 
 Atividades Concluídas, Em Andamento e A Fazer
@@ -71,6 +71,11 @@ https://www.youtube.com/watch?v=BB3dPJ9HiGg
 Visualizando Status dos Pedidos:
 
 https://www.youtube.com/watch?v=h_50yc1niIY
+
+
+
+***RELATO***
+Projeto acadêmico proposto pelas disciplinas de Fundamentos de Engenharia de Software, professor(a) Lucas Rodolfo Celestino, Gestão de Projetos, professora Suzana Sandes Dantas, e a cadeira de Projetos 02, professora Jeniffer Cristine Ferreira, ao qual desempenhamos atividades em equipe formada por Allan Vasconcelos, Bruno Braga, Danilo Novas e Glauco Santos para a criação de um website com ênfase ao framework REACT, além de outras linguagens de programação implementadas como JavaScript e CSS com base na prototipação que desenvolvemos através do FIGMA. Processo dinâmico, com interação dos colaboradores como troca de ideias, trabalho em equipe, multiplos aprendizados, utilizando metodologias de porocessos Ágeis como Scrum para o gerenciamento das atividades de todos os membros da equipe para a criação e aprovação das idealizações, construção das apresentações em slides, da problemática e solução, grade de concorrência, personas, jornadas do usuário, mapas mentais, sketches e storyboards dentre outros. Projeto gratificante que nos enriquece com tantos conhecimentos e informações adquiridos e compartilhados tendo o apoio de todos os Professores envolvidos, monitores e colegas da faculdade.
 
 
 ***COLABORADORES***
