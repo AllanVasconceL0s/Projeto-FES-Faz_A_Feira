@@ -26,9 +26,7 @@ Atividades Concluídas, Em Andamento e A Fazer
 Atividades marcadas como "A Fazer":        Atividades marcadas como "Em Andamento":         Atividades marcadas como "Finalizada":
 
 
-![Faz@Feira-3C-CartaoConversaConfirmacao-III](https://github.com/user-attachments/assets/84400e9c-8466-4d7d-8880-c018cbdba9c0)
-![Faz@Feira-3C-CartaoConversaConfirmacao-II](https://github.com/user-attachments/assets/c931b4ec-e9f5-4d87-9580-fa2e6e255edb)
-![Faz@Feira-3C-CartaoConversaConfirmacao-I](https://github.com/user-attachments/assets/3f7c4a4c-ea46-4ee1-bc8a-9551175ade2f)
+![Faz@Feira-3C-CartaoConversaConfirmacao-III](https://github.com/user-attachments/assets/84400e9c-8466-4d7d-8880-c018cbdba9c0)![Faz@Feira-3C-CartaoConversaConfirmacao-II](https://github.com/user-attachments/assets/c931b4ec-e9f5-4d87-9580-fa2e6e255edb)![Faz@Feira-3C-CartaoConversaConfirmacao-I](https://github.com/user-attachments/assets/3f7c4a4c-ea46-4ee1-bc8a-9551175ade2f)
 
 
 ***3C CARTÃO|CONVERSA|CONFIRMAÇÃO - BACKLOG TRELLO***
