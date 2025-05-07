@@ -25,7 +25,10 @@ Atividades Concluídas, Em Andamento e A Fazer
 
 Atividades marcadas como "A Fazer":        Atividades marcadas como "Em Andamento":         Atividades marcadas como "Finalizada":
 
-![Trello-2-AtividadeAFazer](https://github.com/user-attachments/assets/9ff80140-e429-4930-83ae-40a84c8ff4c9) ![Trello-3-AtividadeEmAndamento](https://github.com/user-attachments/assets/ea3ee0cb-df6e-4994-8a77-41a8afe993ba) ![Trello-4-Finalizada](https://github.com/user-attachments/assets/a7d88b68-c424-45d2-bdab-a429b02a922d)
+
+![Faz@Feira-3C-CartaoConversaConfirmacao-III](https://github.com/user-attachments/assets/84400e9c-8466-4d7d-8880-c018cbdba9c0)
+![Faz@Feira-3C-CartaoConversaConfirmacao-II](https://github.com/user-attachments/assets/c931b4ec-e9f5-4d87-9580-fa2e6e255edb)
+![Faz@Feira-3C-CartaoConversaConfirmacao-I](https://github.com/user-attachments/assets/3f7c4a4c-ea46-4ee1-bc8a-9551175ade2f)
 
 
 ***3C CARTÃO|CONVERSA|CONFIRMAÇÃO - BACKLOG TRELLO***
