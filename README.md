@@ -20,9 +20,9 @@ sustentáveis além da comodidade para seus clientes proporcionando compras de p
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="![FazAFeira_AdicionarItemRemoverItem1BrancoPNGFinalizado](https://github.com/user-attachments/assets/9ebe6ff6-eb88-4dd7-beac-0147eeeadf5f)" alt="Image Example" width="400px">
-    <img src="![FazAFeira_RemoverExcluirItem2PNGFinalizado](https://github.com/user-attachments/assets/6a378752-e5d8-4b9a-87d2-6ea11e6df7cf)" alt="Image Example" width="400px">
-    <img src="![FazAFeira_StatusPedidoPNGFinalizado](https://github.com/user-attachments/assets/f2217968-b2cf-444d-b0cb-43a8d89fbc2d)" alt="Image Example" width="400px">
+    <img src="" alt="![FazAFeira_AdicionarItemRemoverItem1BrancoPNGFinalizado](https://github.com/user-attachments/assets/9ebe6ff6-eb88-4dd7-beac-0147eeeadf5f)" width="400px">
+    <img src="" alt="![FazAFeira_RemoverExcluirItem2PNGFinalizado](https://github.com/user-attachments/assets/6a378752-e5d8-4b9a-87d2-6ea11e6df7cf)" width="400px">
+    <img src="" alt="![FazAFeira_StatusPedidoPNGFinalizado](https://github.com/user-attachments/assets/f2217968-b2cf-444d-b0cb-43a8d89fbc2d)" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
@@ -67,25 +67,24 @@ Special thank you for all people that contributed for this project.
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="![RonaldPortfólioPicture](https://github.com/user-attachments/assets/43b1c8b8-cb62-49b3-9a85-2e28ced12fcc)
-" width="100px;" alt="Allan Vasconcelos Profile Picture"/><br>
+      <a href="![RonaldPortfólioPicture](https://github.com/user-attachments/assets/43b1c8b8-cb62-49b3-9a85-2e28ced12fcc)" >
+        <img src="" width="100px;" alt="Allan Vasconcelos Profile Picture"/><br>
         <sub>
           <b>Allan Vasconcelos</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#">
-        <img src="![BrunoBraga](https://github.com/user-attachments/assets/8d96803d-1d58-4777-b534-18e1eb39df9b)" width="100px;" alt="Bruno Braga Picture"/><br>
+      <a href="![BrunoBraga](https://github.com/user-attachments/assets/8d96803d-1d58-4777-b534-18e1eb39df9b)">
+        <img src="" width="100px;" alt="Bruno Braga Picture"/><br>
         <sub>
           <b>Bruno Braga</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#">
-        <img src="![GlaucoSantos](https://github.com/user-attachments/assets/f43f8a3c-ccea-4587-9409-142e3838c783)" width="100px;" alt="Foto do Glauco Santos"/><br>
+      <a href="![GlaucoSantos](https://github.com/user-attachments/assets/f43f8a3c-ccea-4587-9409-142e3838c783)">
+        <img src="" width="100px;" alt="Foto do Glauco Santos"/><br>
         <sub>
           <b>Glauco Santos</b>
         </sub>
