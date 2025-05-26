@@ -5,7 +5,7 @@
 </p>
 
 
-<h2 id="started">📝 ***PROBLEMÁTICA***</h2>
+<h2 id="started">📝 PROBLEMÁTICA</h2>
 
 
 <p align="center">
@@ -15,7 +15,7 @@ A dificuldade em encontrar certos produtos só pioram a experiência. Muitas vez
 </p>
 
 
-<h2 id="started">🚀 ***SOLUÇÃO***</h2>
+<h2 id="started">🚀 SOLUÇÃO</h2>
 
 
 <p align="center">
@@ -26,7 +26,7 @@ produtos direto do sofá.</b>
 </p>
 
 
-<h2 id="backlog">💾 ***BACKLOG (GERENCIAMENTO DE ATIVIDADES & AÇÕES NO TRELLO)***</h2>
+<h2 id="backlog">💾 BACKLOG (GERENCIAMENTO DE ATIVIDADES & AÇÕES NO TRELLO)</h2>
 
 
 Atividades Concluídas, Em Andamento e A Fazer
@@ -40,7 +40,7 @@ Atividades marcadas como "A Fazer":        Atividades marcadas como "Em Andament
 ![Projeto02-FAZ@FEIRA-3C-Backlog-Cartao_Conversa_Confirmacao-I](https://github.com/user-attachments/assets/a7713fc5-a01f-4f5e-a8fa-ecbda028fa25) ![Projeto02-FAZ@FEIRA-3C-Backlog-Cartao_Conversa_Confirmacao-II](https://github.com/user-attachments/assets/45a818da-2368-4b74-825a-61e0b555cf34)
 
 
-<h2 id="3C's">💾 ***3C CARTÃO | CONVERSA | CONFIRMAÇÃO - BACKLOG TRELLO***</h2>
+<h2 id="3C's">💾 3C CARTÃO | CONVERSA | CONFIRMAÇÃO - BACKLOG TRELLO</h2>
 
 
 3C's Cartão Product Owner, Conversa com Usuário (Entendendo e Atendendo suas Necessidades) e Confirmação (Criação de Funcionalidades):
@@ -48,7 +48,7 @@ Atividades marcadas como "A Fazer":        Atividades marcadas como "Em Andament
 ![Faz@Feira-3C-CartaoConversaConfirmacao-II](https://github.com/user-attachments/assets/c931b4ec-e9f5-4d87-9580-fa2e6e255edb) ![Faz@Feira-3C-CartaoConversaConfirmacao-I](https://github.com/user-attachments/assets/3f7c4a4c-ea46-4ee1-bc8a-9551175ade2f) ![Faz@Feira-3C-CartaoConversaConfirmacao-III](https://github.com/user-attachments/assets/84400e9c-8466-4d7d-8880-c018cbdba9c0)
 
 
-<h2 id="layout">🎨 ***SKETCHES | STORYBOARDS | LAYOUT***</h2>
+<h2 id="layout">🎨 SKETCHES | STORYBOARDS | LAYOUT</h2>
 
 
 Criamos três sketchers e storysboards para exemplificarmos o uso prático do nosso e-commerce. 
@@ -76,7 +76,7 @@ Verificando a página de status de pedidos:
 
 
 
-***VÍDEOS TUTORIAL***
+<h2 id="tutorial">🎥 VÍDEO TUTORIAL</h2>
 
 
 Adicionando/Diminuindo Itnes no Carrinho:
@@ -93,7 +93,7 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 
 
 
-<h2 id="relato">📝 ***RELATO***</h2>
+<h2 id="relato">📝 RELATO</h2>
 
 
 <p align="center">
@@ -101,20 +101,35 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 </b>
 </p>
 
-<h2 id="colab">🤝 ***COLABORADORES***</h2>
+<h2 id="colab">🤝 Colaboradores</h2>
 
 Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you for all people that contributed for this project.
 
-
-https://github.com/AllanVasconceL0s
-![IMG_7646](https://github.com/user-attachments/assets/ebd78a52-3c1d-4c17-869d-eab3a27f00de)
-
-https://github.com/Danilo-ADS
-
-https://github.com/Bruno-h-Braga
-![ImagemBrunoBraga](https://github.com/user-attachments/assets/43d798c4-6ac4-437f-b837-58ab1a77aa33)
-
-
-https://github.com/glaucosantos002
-![ImagemGlaucoSantos](https://github.com/user-attachments/assets/5ad36940-707c-4c6c-9e39-ad5338b9eb80)
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/157706379?v=4" width="100px;" alt="https://github.com/AllanVasconceL0s"/><br>
+        <sub>
+          <b>Allan Vasconcelos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/184687405?v=4" width="100px;" alt="https://github.com/Bruno-h-Braga"/><br>
+        <sub>
+          <b>Bruno Braga</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/206132779?v=4" width="100px;" alt="https://github.com/glaucosantos002"/><br>
+        <sub>
+          <b>Glauco Santos</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
