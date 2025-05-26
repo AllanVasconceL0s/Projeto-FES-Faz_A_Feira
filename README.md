@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">FAZ A FEIRA 💻 VIRTUAL</h1>
+<h1 align="center" style="font-weight: bold;">FAZ@FEIRA 💻 VIRTUAL</h1>
 
 <p align="center">
     <b>Projeto acadêmico proposto pelas disciplinas de Fundamentos de Engenharia de Software, professor Lucas Rodolfo Celestino de Farias, Gestão de Projetos, professora Suzanna Sandes Dantas e Projetos 02, professora Jeneffer Cristine Ferreira com o propósito de aplicarmos e aprendermos na prática os conceitos de Programa, Projeto, Portfólio, Processos, Estratégias, Resultado, Metodologias Ágeis assim como XP (Extreme Programming), Scrum, Kanban, Princípio de Projeto e Propriedade de Projeto dentre outros.</b>
