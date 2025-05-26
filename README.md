@@ -101,7 +101,7 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 </b>
 </p>
 
-<h2 id="colab">🤝 Colaboradores</h2>
+<h2 id="colab">🤝 COLABORADORES</h2>
 
 Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you for all people that contributed for this project.
 
@@ -128,6 +128,14 @@ Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you
         <img src="https://avatars.githubusercontent.com/u/206132779?v=4" width="100px;" alt="https://github.com/glaucosantos002"/><br>
         <sub>
           <b>Glauco Santos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/184254021?v=4" width="100px;" alt="https://github.com/Danilo-ADS"/><br>
+        <sub>
+          <b>Danilo Novas</b>
         </sub>
       </a>
     </td>
