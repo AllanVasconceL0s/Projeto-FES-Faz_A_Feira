@@ -98,33 +98,35 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 </b>
 </p>
 
-<h2 id="technologies">💻 Tecnologias(Technologies)</h2>
+<h2 id="technologies">💻 Tecnologias (Technologies)</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,git,github,html,js,nodejs,react,ts,vscode,yarn" />
+  </a>
+</p>
 
-- JavaScript
-- HTML5
-- CSS
-- NodeJS
-- Yarn
-- REACT
-- REACT-Native
+<p align="center">
+-  CSS  -  HTML5  -  Git | GitHub  -  JavaScript  -  NodeJS  -  REACT | REACT-Native  -  TypeScript  -  VSCode  -  Yarn
+</p>
 
 <h2 id="started">🚀 Começando (Getting started)</h2>
 
-Here you describe how to run your project locally
+Descrição de como usar o projeto local. (Describe how to run your project locally)
 
-<h3>Prerequisites</h3>
-
-Here you list all prerequisites necessary for running your project. For example:
+<h3i id="prerequisites">📎Pré-Requisitos (Prerequisites)</h3>
 
 - [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
+- [Yarn](https://github.com)
 
-<h3>Cloning</h3>
+<h2 id="cloning">🌀 Clonando (Cloning)</h2>
 
-How to clone your project
+git clone https://github.com/glaucosantos002/fazAfeira.git
 
+<h2 id="terminal">💻 Terminal no VSCode(Terminal in VSCode)</h2>
 
-git clone your-project-url-in-github
+- npm install 
+- npm install expo
+- npx expo start
 
 <h2 id="colab">🤝 COLABORADORES</h2>
 
