@@ -98,6 +98,34 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 </b>
 </p>
 
+<h2 id="technologies">💻 Tecnologias(Technologies)</h2>
+
+- JavaScript
+- HTML5
+- CSS
+- NodeJS
+- Yarn
+- REACT
+- REACT-Native
+
+<h2 id="started">🚀 Começando (Getting started)</h2>
+
+Here you describe how to run your project locally
+
+<h3>Prerequisites</h3>
+
+Here you list all prerequisites necessary for running your project. For example:
+
+- [NodeJS](https://github.com/)
+- [Git 2](https://github.com)
+
+<h3>Cloning</h3>
+
+How to clone your project
+
+
+git clone your-project-url-in-github
+
 <h2 id="colab">🤝 COLABORADORES</h2>
 
 Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you for all people that contributed for this project.
